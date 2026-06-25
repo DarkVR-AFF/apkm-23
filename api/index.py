@@ -201,8 +201,6 @@ def titledata():
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
         "EnableCustomAuthentication": True,
         "GorillanalyticsChance": 4320,
-        "LatestPrivacyPolicyVersion": "2024.09.20",
-        "LatestTOSVersion": "2024.09.20",
         "MOTD": "<color=#ac1a00>WELCOME TO LEXO TAG!</color>\n\n\n<color=#0099c2>BOOST DISCORD.GG/H4ZP8TAP3C FOR EVERY COSMETIC!</color>\n\n\n<color=#cacfd2>CREDITS DARKVR, LUXO</color>\n\n<color=#41ff80>THIS GAME IS IN SCIENCE FLASHBACK UPD!</color>",
         "SeasonalStoreBoardSign": "<color=#ff7241>FALL!</color>",
         "TOBAlreadyOwnCompTxt": "DISCORD.GG/H4ZP8TAP3C",
